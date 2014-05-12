@@ -4,4 +4,6 @@ get '/' do
 'Hello World!'
 end
 
-You can run the site by compiling ruby. It is visable at localhost. 
+You can run the site by compiling site.rb using the Ruby compiler.
+i.e. ruby site.rb
+It can then be viewed at your localhost. 
